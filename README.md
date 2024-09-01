@@ -30,4 +30,9 @@ To simplify the shopping process by providing a well-organized, easily manageabl
 User starts the bot and can make a new list or attach to an existing one (by using list ID, like in ntfy.sh). After that he can issue commands "/add <product name and other info>" "/remove <product num or short name>" "/got <same as /remove>" "/list" 
 
 ## TODO
+- Make /add function
+- Make /flush function to remove all elements from the list
+- Make /got function to mark item as bought
+- Make /remove function to just remove item without marking as bought
+- Make function that shows recommended items to add (depending in history)
 - Buttons to not write commands manually
